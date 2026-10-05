@@ -29,7 +29,7 @@ O conteúdo aborda temas como:
 
 ## 🖼️ Capa do eBook
 
-![Capa do eBook](assets/capa.png)
+![Capa do eBook](ebookcapa.png)
 
 ---
 
@@ -56,7 +56,7 @@ Durante o desenvolvimento, utilizei dois prompts principais.
 
 ### Prompt 1 — Estrutura e conteúdo do eBook
 
-![Prompt 1](assets/prompt-01.png)
+![Prompt 1](ebookprompt1.png)
 
 Este prompt foi utilizado para definir:
 
@@ -71,7 +71,7 @@ Este prompt foi utilizado para definir:
 
 ### Prompt 2 — Capa e identidade visual
 
-![Prompt 2](assets/prompt-02.png)
+![Prompt 2](ebookprompt2.png)
 
 Este prompt foi utilizado para criar o conceito visual do projeto, incluindo:
 
@@ -124,11 +124,7 @@ O eBook aborda:
 
 ### 📕 eBook em PDF
 
-[Baixar o eBook em PDF](ebook/Recalculando_a_Rota_eBook.pdf)
-
-### 📊 PowerPoint
-
-[Baixar o PowerPoint](ebook/Recalculando_a_Rota_eBook.pptx)
+[Baixar o eBook em PDF](Recalculando_a_Rota_eBook.pdf)
 
 ---
 
